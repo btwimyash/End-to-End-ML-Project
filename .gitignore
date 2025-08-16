@@ -1,0 +1,27 @@
+# Ignore virtual environment
+ML_Project/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+
+# Datasets & model files (common in ML projects)
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+*.npy
+
+# IDE/editor configs (optional but safe)
+.vscode/
+.idea/
